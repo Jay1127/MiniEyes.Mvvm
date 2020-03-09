@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMvvm", "src\MiniMvvm.csproj", "{851B6441-832E-44ED-8C28-B71DFEFDD871}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniEyes.Mvvm", "src\MiniEyes.Mvvm.csproj", "{851B6441-832E-44ED-8C28-B71DFEFDD871}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

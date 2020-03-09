@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // 어셈블리에 대한 일반 정보는 다음 특성 집합을 통해 
 // 제어됩니다. 어셈블리와 관련된 정보를 수정하려면
 // 이러한 특성 값을 변경하세요.
-[assembly: AssemblyTitle("MiniMvvm")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("MiniEyes.MiniMvvm")]
+[assembly: AssemblyDescription("lightweight mvvm library")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("oksujay1127")]
 [assembly: AssemblyProduct("MiniMvvm")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
